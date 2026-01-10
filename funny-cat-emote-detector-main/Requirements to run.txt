@@ -1,0 +1,7 @@
+Opencv-python
+Mediapipe
+NumPy
+Scikit-learn
+Pygame
+
+Note: You might need to download older version of Python for Mediapipe to work

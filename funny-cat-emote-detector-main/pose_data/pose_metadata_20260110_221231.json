@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260110_221231",
+  "num_samples": 593,
+  "pose_labels": {
+    "0": "Laughing",
+    "1": "Absolute_Cinema",
+    "2": "Crying",
+    "3": "Like",
+    "4": "Pointing",
+    "5": "Punching"
+  },
+  "samples_per_pose": 100,
+  "collection_date": "2026-01-10T22:12:31.864614"
+}
