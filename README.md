@@ -55,7 +55,7 @@ The model can classify the following poses:
 | **Pointing** | Point into the camera with one or both hand works | <img src="funny-cat-emote-detector-main/images/cat_pointing.jpg" width="100" height="100"> |
 | **Punching** | Fist into the camera or fist upward | <img src="funny-cat-emote-detector-main/images/saitama.jpg" width="100" height="100"> |
 
-(The punching one was specially make for my lecturer because he like OPM alot 😁)
+(The punching one was specially make for my teacher because he like OPM alot 😁)
 
 Quick note: This is a pre-trained model that only classifies the poses above, if you want you add more poses or sounds then feel free to add in by modifying the code. You need to retrain the model also by running the file data_collector.py (Instrucion to use collect data is in the file also).
 
