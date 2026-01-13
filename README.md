@@ -31,7 +31,9 @@ python.exe main.py
 
 ### To collect your own data
 
+```bash
 python.exe data_collector.py
+```
 
 ## Files and their usage
 
